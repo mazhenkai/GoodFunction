@@ -1,4 +1,4 @@
-#画多个图的function
+#可以把ggplot对象画多个图的function
 multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
           library(grid)
           
