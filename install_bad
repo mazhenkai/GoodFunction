@@ -1,0 +1,1 @@
+unlink("/Library/Frameworks/R.framework/Versions/3.0/Resources/library/00LOCK-BondLab", recursive = TRUE)
